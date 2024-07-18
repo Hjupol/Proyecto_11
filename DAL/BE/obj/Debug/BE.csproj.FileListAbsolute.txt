@@ -1,0 +1,11 @@
+c:\Users\navegador\documents\visual studio 2015\Projects\DAL\BE\bin\Debug\BE.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\DAL\BE\bin\Debug\BE.pdb
+c:\Users\navegador\documents\visual studio 2015\Projects\DAL\BE\obj\Debug\BE.csprojResolveAssemblyReference.cache
+c:\Users\navegador\documents\visual studio 2015\Projects\DAL\BE\obj\Debug\BE.dll
+c:\Users\navegador\documents\visual studio 2015\Projects\DAL\BE\obj\Debug\BE.pdb
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\bin\Debug\BE.dll
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\bin\Debug\BE.pdb
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Debug\BE.dll
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Debug\BE.pdb

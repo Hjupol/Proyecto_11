@@ -1,0 +1,6 @@
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\bin\Release\BE.dll
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\bin\Release\BE.pdb
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Release\BE.csproj.AssemblyReference.cache
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Release\BE.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Release\BE.dll
+C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Release\BE.pdb

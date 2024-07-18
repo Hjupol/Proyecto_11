@@ -1,0 +1,17 @@
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\bin\Release\GUI.exe.config
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\bin\Release\GUI.exe
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\bin\Release\GUI.pdb
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\bin\Release\BE.dll
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\bin\Release\BLL.dll
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\bin\Release\DAL.dll
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\bin\Release\BE.pdb
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\bin\Release\BLL.pdb
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\bin\Release\DAL.pdb
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\obj\Release\GUI.csproj.AssemblyReference.cache
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\obj\Release\GUI.Form1.resources
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\obj\Release\GUI.Properties.Resources.resources
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\obj\Release\GUI.csproj.GenerateResource.cache
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\obj\Release\GUI.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\obj\Release\GUI.csproj.Up2Date
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\obj\Release\GUI.exe
+C:\Users\Adriel\Downloads\practica\practica\DAL\GUI\obj\Release\GUI.pdb
