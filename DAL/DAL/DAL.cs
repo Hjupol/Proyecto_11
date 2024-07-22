@@ -15,7 +15,7 @@ namespace DAL
         public void Abrir()
         {
             conexion = new SqlConnection();
-            conexion.ConnectionString = @"Data Source=.\SQL_UAI;Initial Catalog=Cerveceria;Integrated Security=True";
+            conexion.ConnectionString = @"Data Source=DESKTOP-6PDF17Q\MSSQLSERVER01;Initial Catalog=Cerveceria;Integrated Security=True";
             conexion.Open();
         }
 

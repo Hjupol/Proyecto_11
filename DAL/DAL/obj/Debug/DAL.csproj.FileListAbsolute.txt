@@ -14,3 +14,12 @@ C:\Users\Adriel\Downloads\practica\practica\DAL\DAL\obj\Debug\DAL.csproj.CoreCom
 C:\Users\Adriel\Downloads\practica\practica\DAL\DAL\obj\Debug\DAL.csproj.Up2Date
 C:\Users\Adriel\Downloads\practica\practica\DAL\DAL\obj\Debug\DAL.dll
 C:\Users\Adriel\Downloads\practica\practica\DAL\DAL\obj\Debug\DAL.pdb
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\DAL\bin\Debug\DAL.dll
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\DAL\bin\Debug\DAL.pdb
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\DAL\bin\Debug\BE.dll
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\DAL\bin\Debug\BE.pdb
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\DAL\obj\Debug\DAL.csproj.Up2Date
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\DAL\obj\Debug\DAL.dll
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\DAL\obj\Debug\DAL.pdb

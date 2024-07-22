@@ -18,3 +18,14 @@ C:\Users\Adriel\Downloads\practica\practica\DAL\BLL\obj\Debug\BLL.csproj.CoreCom
 C:\Users\Adriel\Downloads\practica\practica\DAL\BLL\obj\Debug\BLL.csproj.Up2Date
 C:\Users\Adriel\Downloads\practica\practica\DAL\BLL\obj\Debug\BLL.dll
 C:\Users\Adriel\Downloads\practica\practica\DAL\BLL\obj\Debug\BLL.pdb
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\bin\Debug\BLL.dll
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\bin\Debug\BLL.pdb
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\bin\Debug\BE.dll
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\bin\Debug\DAL.dll
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\bin\Debug\BE.pdb
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\bin\Debug\DAL.pdb
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\obj\Debug\BLL.csproj.Up2Date
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\obj\Debug\BLL.dll
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BLL\obj\Debug\BLL.pdb
