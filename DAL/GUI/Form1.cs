@@ -47,6 +47,17 @@ namespace GUI
             dataGridView3.DataSource = BLL.Combo.ListarCombos();
         }
 
+        private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            hamb = new BE.Hamburguesa();
+            hamb.Nombre = textBox1.Text;
+            hamb.Detalle = textBox2.Text;
+            gestorHamburguesa.Insertar(hamb);
+        }
     }
 }

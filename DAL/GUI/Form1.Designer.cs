@@ -72,6 +72,7 @@
             this.dataGridView1.Name = "dataGridView1";
             this.dataGridView1.Size = new System.Drawing.Size(240, 150);
             this.dataGridView1.TabIndex = 2;
+            this.dataGridView1.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.dataGridView1_CellContentClick);
             // 
             // button1
             // 
@@ -79,8 +80,9 @@
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(88, 20);
             this.button1.TabIndex = 3;
-            this.button1.Text = "button1";
+            this.button1.Text = "Insertar BURG";
             this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // button2
             // 
@@ -88,7 +90,7 @@
             this.button2.Name = "button2";
             this.button2.Size = new System.Drawing.Size(88, 20);
             this.button2.TabIndex = 4;
-            this.button2.Text = "button2";
+            this.button2.Text = "Eliminar BURG";
             this.button2.UseVisualStyleBackColor = true;
             // 
             // button3

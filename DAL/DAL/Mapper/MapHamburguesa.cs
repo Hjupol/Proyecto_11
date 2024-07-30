@@ -68,7 +68,7 @@ namespace DAL.Mapper
                 h.ID = int.Parse(row["idhamburguesa"].ToString());
                 h.Nombre = row["nombre"].ToString();
                 h.Detalle = row["detalle"].ToString();
-                h.Baja = int.Parse(row["baja"].ToString());
+                //h.Baja = int.Parse(row["baja"].ToString());
 
                 hamburguesas.Add(h);
             }
