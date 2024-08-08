@@ -9,3 +9,9 @@ C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Debug\BE.csproj.AssemblyR
 C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
 C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Debug\BE.dll
 C:\Users\Adriel\Downloads\practica\practica\DAL\BE\obj\Debug\BE.pdb
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BE\bin\Debug\BE.dll
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BE\bin\Debug\BE.pdb
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BE\obj\Debug\BE.csproj.AssemblyReference.cache
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BE\obj\Debug\BE.csproj.CoreCompileInputs.cache
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BE\obj\Debug\BE.dll
+C:\Users\Adriel\Documents\GitHub\practica\practica\DAL\BE\obj\Debug\BE.pdb

@@ -34,7 +34,7 @@ namespace DAL.Mapper
             parametros.Add(conexion.CrearParametro("@detalle", hamburguesa.Detalle));
 
             conexion.Abrir();
-            int resultado = conexion.Escribir("editarHamburguesa", parametros);
+            int resultado = conexion.Escribir("editarHamburgresa", parametros);
             conexion.Cerrar();
 
             return resultado;
@@ -44,10 +44,10 @@ namespace DAL.Mapper
         {
             List<SqlParameter> parametros = new List<SqlParameter>();
             parametros.Add(conexion.CrearParametro("@idhamburguesa", hamburguesa.ID));
-            parametros.Add(conexion.CrearParametro("@baja", 1));
+            //parametros.Add(conexion.CrearParametro("@baja", 1));
 
             conexion.Abrir();
-            int resultado = conexion.Escribir("borrarHamburguesa", parametros);
+            int resultado = conexion.Escribir("eliminarHamburguesa", parametros);
             conexion.Cerrar();
 
             return resultado;
@@ -68,14 +68,8 @@ namespace DAL.Mapper
                 h.ID = int.Parse(row["idhamburguesa"].ToString());
                 h.Nombre = row["nombre"].ToString();
                 h.Detalle = row["detalle"].ToString();
-                if (int.TryParse(row["baja"].ToString(), out int j))
-                {
-                    h.Baja = j;
-                }
-                else
-                {
-                    h.Baja = 0;                    
-                }
+                string ttest = row["baja"].ToString();
+                h.Baja = Convert.ToInt32(Convert.ToBoolean(row["baja"].ToString()));
 
                 hamburguesas.Add(h);
             }

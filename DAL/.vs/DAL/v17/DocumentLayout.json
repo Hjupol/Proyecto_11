@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7351FB8C-212C-4348-9D1B-4130E2C1802A}|GUI\\GUI.csproj|C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7351FB8C-212C-4348-9D1B-4130E2C1802A}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{EB79DFE1-6CB7-40E0-9CF8-07227388F7B8}|DAL\\DAL.csproj|c:\\users\\adriel\\documents\\github\\practica\\practica\\dal\\dal\\mapper\\maphamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{EB79DFE1-6CB7-40E0-9CF8-07227388F7B8}|DAL\\DAL.csproj|C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\dal\\mapper\\maphamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB79DFE1-6CB7-40E0-9CF8-07227388F7B8}|DAL\\DAL.csproj|solutionrelative:dal\\mapper\\maphamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{EB79DFE1-6CB7-40E0-9CF8-07227388F7B8}|DAL\\DAL.csproj|C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\dal\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EB79DFE1-6CB7-40E0-9CF8-07227388F7B8}|DAL\\DAL.csproj|solutionrelative:dal\\dal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3118E6A3-3984-4638-8766-3EA00E98F3F2}|BLL\\BLL.csproj|c:\\users\\adriel\\documents\\github\\practica\\practica\\dal\\bll\\hamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3118E6A3-3984-4638-8766-3EA00E98F3F2}|BLL\\BLL.csproj|solutionrelative:bll\\hamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7351FB8C-212C-4348-9D1B-4130E2C1802A}|GUI\\GUI.csproj|c:\\users\\adriel\\documents\\github\\practica\\practica\\dal\\gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7351FB8C-212C-4348-9D1B-4130E2C1802A}|GUI\\GUI.csproj|solutionrelative:gui\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{184671BE-67C7-451C-9443-FE20F5B25F51}|BE\\BE.csproj|c:\\users\\adriel\\documents\\github\\practica\\practica\\dal\\be\\hamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{184671BE-67C7-451C-9443-FE20F5B25F51}|BE\\BE.csproj|solutionrelative:be\\hamburguesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7351FB8C-212C-4348-9D1B-4130E2C1802A}|GUI\\GUI.csproj|C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\gui\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,24 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
+              "Title": "Hamburguesa.cs",
+              "DocumentMoniker": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\BLL\\Hamburguesa.cs",
+              "RelativeDocumentMoniker": "BLL\\Hamburguesa.cs",
+              "ToolTip": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\BLL\\Hamburguesa.cs",
+              "RelativeToolTip": "BLL\\Hamburguesa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T17:35:24.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Hamburguesa.cs",
+              "DocumentMoniker": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\BE\\Hamburguesa.cs",
+              "RelativeDocumentMoniker": "BE\\Hamburguesa.cs",
+              "ToolTip": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\BE\\Hamburguesa.cs",
+              "RelativeToolTip": "BE\\Hamburguesa.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAgwCQAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-08T15:30:27.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "MapHamburguesa.cs",
               "DocumentMoniker": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\DAL\\Mapper\\MapHamburguesa.cs",
               "RelativeDocumentMoniker": "DAL\\Mapper\\MapHamburguesa.cs",
               "ToolTip": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\DAL\\Mapper\\MapHamburguesa.cs",
               "RelativeToolTip": "DAL\\Mapper\\MapHamburguesa.cs",
-              "ViewState": "AQIAAC8AAAAAAAAAAAAwwEsAAAARAAAA",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwDEAAAAMAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-30T18:22:01.595Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Form1.Designer.cs",
               "DocumentMoniker": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\GUI\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.Designer.cs",
@@ -60,41 +94,40 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "DAL.cs",
               "DocumentMoniker": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\DAL\\DAL.cs",
               "RelativeDocumentMoniker": "DAL\\DAL.cs",
               "ToolTip": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\DAL\\DAL.cs",
               "RelativeToolTip": "DAL\\DAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEQAAAAIAAAA",
+              "ViewState": "AQIAACQAAAAAAAAAAAAiwDUAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-22T22:04:39.763Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "Form1.cs",
               "DocumentMoniker": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.cs",
               "ToolTip": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\GUI\\Form1.cs",
               "RelativeToolTip": "GUI\\Form1.cs",
-              "ViewState": "AQIAAEgAAAAAAAAAAAAiwGIAAAAMAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-07-08T14:43:58.815Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\GUI\\Form1.cs",
               "RelativeDocumentMoniker": "GUI\\Form1.cs",
               "ToolTip": "C:\\Users\\Adriel\\Documents\\GitHub\\practica\\practica\\DAL\\GUI\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "GUI\\Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-08T14:41:16.065Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-07-08T14:41:16.065Z"
             }
           ]
         }
